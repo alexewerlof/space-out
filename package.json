@@ -1,0 +1,25 @@
+{
+  "name": "space-out",
+  "version": "0.0.1",
+  "description": "A great reporting tool",
+  "engines": {
+    "node": "6.2.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/userpixel/space-out"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
